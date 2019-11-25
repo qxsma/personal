@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://qxsma.github.io/</id>
+    <id>http://qxsma.coding.me/mqxs/</id>
     <title>MQXS</title>
-    <updated>2019-11-25T15:13:46.942Z</updated>
+    <updated>2019-11-25T15:52:54.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://qxsma.github.io/"/>
-    <link rel="self" href="https://qxsma.github.io//atom.xml"/>
+    <link rel="alternate" href="http://qxsma.coding.me/mqxs/"/>
+    <link rel="self" href="http://qxsma.coding.me/mqxs//atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://qxsma.github.io//images/avatar.png</logo>
-    <icon>https://qxsma.github.io//favicon.ico</icon>
+    <logo>http://qxsma.coding.me/mqxs//images/avatar.png</logo>
+    <icon>http://qxsma.coding.me/mqxs//favicon.ico</icon>
     <rights>All rights reserved 2019, MQXS</rights>
     <entry>
         <title type="html"><![CDATA[近2000份电子问卷，我是这样统计数据的]]></title>
-        <id>https://qxsma.github.io//post/jin-2000-fen-dian-zi-wen-juan-wo-shi-zhe-yang-tong-ji-shu-ju-de</id>
-        <link href="https://qxsma.github.io//post/jin-2000-fen-dian-zi-wen-juan-wo-shi-zhe-yang-tong-ji-shu-ju-de">
+        <id>http://qxsma.coding.me/mqxs//post/jin-2000-fen-dian-zi-wen-juan-wo-shi-zhe-yang-tong-ji-shu-ju-de</id>
+        <link href="http://qxsma.coding.me/mqxs//post/jin-2000-fen-dian-zi-wen-juan-wo-shi-zhe-yang-tong-ji-shu-ju-de">
         </link>
         <updated>2019-11-25T15:13:08.000Z</updated>
         <content type="html"><![CDATA[<h1 id="前言">前言</h1>
@@ -117,8 +117,8 @@ print(&quot;运行完成！&quot;)
     </entry>
     <entry>
         <title type="html"><![CDATA[21条高效时间管理与高效工作法则]]></title>
-        <id>https://qxsma.github.io//post/21-tiao-gao-xiao-shi-jian-guan-li-yu-gao-xiao-gong-zuo-fa-ze</id>
-        <link href="https://qxsma.github.io//post/21-tiao-gao-xiao-shi-jian-guan-li-yu-gao-xiao-gong-zuo-fa-ze">
+        <id>http://qxsma.coding.me/mqxs//post/21-tiao-gao-xiao-shi-jian-guan-li-yu-gao-xiao-gong-zuo-fa-ze</id>
+        <link href="http://qxsma.coding.me/mqxs//post/21-tiao-gao-xiao-shi-jian-guan-li-yu-gao-xiao-gong-zuo-fa-ze">
         </link>
         <updated>2019-11-25T14:38:17.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://mapicgo-1300645047.cos.ap-chengdu.myqcloud.com/21%E6%9D%A1%E9%AB%98%E6%95%88%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E4%B8%8E%E9%AB%98%E6%95%88%E5%B7%A5%E4%BD%9C%E6%B3%95%E5%88%99.png" alt=""></figure>
@@ -129,8 +129,8 @@ print(&quot;运行完成！&quot;)
     </entry>
     <entry>
         <title type="html"><![CDATA[手机修图之电影风格]]></title>
-        <id>https://qxsma.github.io//post/shou-ji-xiu-tu-zhi-dian-ying-feng-ge</id>
-        <link href="https://qxsma.github.io//post/shou-ji-xiu-tu-zhi-dian-ying-feng-ge">
+        <id>http://qxsma.coding.me/mqxs//post/shou-ji-xiu-tu-zhi-dian-ying-feng-ge</id>
+        <link href="http://qxsma.coding.me/mqxs//post/shou-ji-xiu-tu-zhi-dian-ying-feng-ge">
         </link>
         <updated>2019-11-25T14:37:42.000Z</updated>
         <content type="html"><![CDATA[<p>原文发布于我的悟空问答<a href="https://www.wukong.com/question/6539734691023421709/">《怎么用手机调出电影风格的照片》</a>，并获得当月<strong>问答之星</strong>。</p>
@@ -203,8 +203,8 @@ print(&quot;运行完成！&quot;)
     </entry>
     <entry>
         <title type="html"><![CDATA[电脑修图之如何让照片更通透]]></title>
-        <id>https://qxsma.github.io//post/dian-nao-xiu-tu-zhi-ru-he-rang-zhao-pian-geng-tong-tou</id>
-        <link href="https://qxsma.github.io//post/dian-nao-xiu-tu-zhi-ru-he-rang-zhao-pian-geng-tong-tou">
+        <id>http://qxsma.coding.me/mqxs//post/dian-nao-xiu-tu-zhi-ru-he-rang-zhao-pian-geng-tong-tou</id>
+        <link href="http://qxsma.coding.me/mqxs//post/dian-nao-xiu-tu-zhi-ru-he-rang-zhao-pian-geng-tong-tou">
         </link>
         <updated>2019-11-25T14:36:24.000Z</updated>
         <content type="html"><![CDATA[<p>原文发表于我的悟空问答<a href="https://www.wukong.com/answer/6532061104414130435/">《后期如何做可以让照片通透？》</a></p>
