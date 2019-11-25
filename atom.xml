@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qxsma.github.io/</id>
     <title>MQXS</title>
-    <updated>2019-11-25T14:26:31.558Z</updated>
+    <updated>2019-11-25T14:41:33.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qxsma.github.io/"/>
     <link rel="self" href="https://qxsma.github.io//atom.xml"/>
@@ -10,4 +10,145 @@
     <logo>https://qxsma.github.io//images/avatar.png</logo>
     <icon>https://qxsma.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, MQXS</rights>
+    <entry>
+        <title type="html"><![CDATA[21条高效时间管理与高效工作法则]]></title>
+        <id>https://qxsma.github.io//post/21-tiao-gao-xiao-shi-jian-guan-li-yu-gao-xiao-gong-zuo-fa-ze</id>
+        <link href="https://qxsma.github.io//post/21-tiao-gao-xiao-shi-jian-guan-li-yu-gao-xiao-gong-zuo-fa-ze">
+        </link>
+        <updated>2019-11-25T14:38:17.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://mapicgo-1300645047.cos.ap-chengdu.myqcloud.com/21%E6%9D%A1%E9%AB%98%E6%95%88%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E4%B8%8E%E9%AB%98%E6%95%88%E5%B7%A5%E4%BD%9C%E6%B3%95%E5%88%99.png" alt=""></figure>
+<blockquote>
+<p>整理于笔记侠公众号</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手机修图之电影风格]]></title>
+        <id>https://qxsma.github.io//post/shou-ji-xiu-tu-zhi-dian-ying-feng-ge</id>
+        <link href="https://qxsma.github.io//post/shou-ji-xiu-tu-zhi-dian-ying-feng-ge">
+        </link>
+        <updated>2019-11-25T14:37:42.000Z</updated>
+        <content type="html"><![CDATA[<p>原文发布于我的悟空问答<a href="https://www.wukong.com/question/6539734691023421709/">《怎么用手机调出电影风格的照片》</a>，并获得当月<strong>问答之星</strong>。</p>
+<h1 id="前言">前言</h1>
+<p>电影色调是我们在后期经常会使用到的，能够给照片增添画面感、故事感，但是大多数朋友在拍了照片后想要电影色调的感觉，可能就是加个滤镜，加个字幕就完成了，但效果有时候不尽人意。</p>
+<p>这一次我就为大家分享一下如何在手机上自己调出漂亮的电影色调，使用到的APP是泼辣修图，先来看看前后的效果对比：</p>
+<figure data-type="image" tabindex="1"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/1.JPG" alt=""></figure>
+<p><em>（原图来源于网络）</em></p>
+<p>这张照片中我只是针对画面的色调进行讲解，对于加字幕什么的也很简单，用APP足迹就可以。</p>
+<p>通过前后的效果对比呢可以看出我后期调色的一个思路：赋予画面浓烈的冷暖对比效果，这里的冷色就是阴影的青蓝色，暖色就是高光的橙色，所以后期我们就可以循着这个思路去调整。</p>
+<h2 id="后期软件">后期软件</h2>
+<p>泼辣修图</p>
+<h1 id="调色步骤">调色步骤</h1>
+<h2 id="1-转log模式">1. 转LOG模式</h2>
+<p>这里补充一个LOG模式的概念。</p>
+<p>LOG模式呢在电影色调的调整中特别重要，对于什么LOG模式原理之类的感兴趣的朋友可以去搜索了解一下，我在这里讲的话也会是复制粘贴过来一些晦涩的理论，这里大家可以这样理解LOG模式：能够展现更多的阴影和高光中的细节，宽容度更高。</p>
+<p>所以第一步就是将照片转LOG模式，既然之前说的LOG模式能展现更多的阴影、高光细节，那么就可以在泼辣修图的光效调整中，将阴影、高光、白色色阶、黑色色阶细节都展现出来：</p>
+<figure data-type="image" tabindex="2"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/2.PNG" alt=""></figure>
+<p>这时候画面是很灰、很平的一个感觉，但是画面中的细节都全部展现出来了。</p>
+<p>可以这样理解，现在我们是在玩一个类似秘密花园的填色游戏，LOG模式就是填色的线条图案，接下来就是我们进行上色的过程。</p>
+<h2 id="2-影调调整">2. 影调调整</h2>
+<p>接下来还是在光效调整中，将画面的曝光压暗一点，并且提升一点的对比度：</p>
+<figure data-type="image" tabindex="3"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/3.PNG" alt=""></figure>
+<h2 id="3-色彩调整">3. 色彩调整</h2>
+<p>然后来到色彩的调整中，让画面的自然饱和度提高一点，找回一些色彩，然后调整色温先让画面整体偏向一个暖色调。</p>
+<figure data-type="image" tabindex="4"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/4.PNG" alt=""></figure>
+<p>就下来就是利用HSL和色调功能给画面进行局部上色工作了。</p>
+<h2 id="4-hsl调整">4. HSL调整</h2>
+<p>首先来到HSL工具中，对红色进行调整。</p>
+<p>这里的红色主要是前面两辆汽车的颜色，可以提升一点饱和度，并且压暗一点。</p>
+<figure data-type="image" tabindex="5"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/5.PNG" alt=""></figure>
+<p>然后就是画面中主要的橙色。调整色相是为了让橙色更暖，因为原来的橙色是有点偏黄的，然后加浓度，加明度，这样让橙色在画面中更浓郁：</p>
+<figure data-type="image" tabindex="6"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/6.PNG" alt=""></figure>
+<figure data-type="image" tabindex="7"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/7.PNG" alt=""></figure>
+<p>青色中也是同样加深饱和度：</p>
+<figure data-type="image" tabindex="8"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/8.PNG" alt=""></figure>
+<p>可以看到在HSL中我主要是针对画面中的红色、橙色这两个画面中主要的暖色，和青色、蓝色这两个画面中主要的冷色进行了加饱和度的处理，和之前对比，画面中的冷暖效果已经逐渐出来了。</p>
+<h2 id="5-色调功能">5. 色调功能</h2>
+<p>接下来我继续使用色调功能给画面色阴影和高光加强了冷暖对比。</p>
+<p>在高光中加橙色：</p>
+<figure data-type="image" tabindex="9"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/9.PNG" alt=""></figure>
+<p>在高光中加了橙色后，可以看到画面中的青色被减弱了，所以我继续在阴影中加上青色来平衡画面中的色彩效果：</p>
+<figure data-type="image" tabindex="10"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/10.PNG" alt=""></figure>
+<p>这样一来照片中青色和橙色的一个冷暖色彩的对比效果就非常好看了。</p>
+<h2 id="6-曲线调整">6. 曲线调整</h2>
+<p>然后我使用曲线工具在RGB曲线中拉了一个S曲线，进一步增强画面的对比效果。</p>
+<figure data-type="image" tabindex="11"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/11.PNG" alt=""></figure>
+<h2 id="7-增加暗角">7. 增加暗角</h2>
+<p>最后呢，就是给画面增添一点的暗角，这样可以提升画面的镜头感，进一步营造电影效果：</p>
+<figure data-type="image" tabindex="12"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/12.PNG" alt=""></figure>
+<p>这样一来，一个电影色调的后期处理就完成了。</p>
+<h1 id="小结">小结</h1>
+<p>最后再来总结一下电影色调的后期处理思路：</p>
+<ol>
+<li>转LOG，提高阴影、黑色色阶，压低高光、白色色阶；</li>
+<li>根据想要的画面效果先对影调（曝光、对比度）进行处理；</li>
+<li>通过HSL工具、色调工具为画面添加浓烈的冷暖色调对比效果；</li>
+<li>加质感、加画面感（暗角），最后修饰（曝光、对比度、曲线）。</li>
+</ol>
+<p>以上就是我在后期修电影色调的一个大体思路，只要我们再后期修图的过程中确定了思路，会发现修图是个很简单的工作。</p>
+<p>另外我们可以把之前的调整存储为滤镜，下次调整的时候可以直接调用，然后做一些小小的修改就可以。</p>
+<p>这张就是之前的调整保存下来的滤镜用在另外一些图上的效果：</p>
+<figure data-type="image" tabindex="13"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/14.JPG" alt=""></figure>
+<p><em>（原图来源于网络）</em></p>
+<figure data-type="image" tabindex="14"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/15.JPG" alt=""></figure>
+<p><em>（原图来源于网络）</em></p>
+<figure data-type="image" tabindex="15"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/16.JPG" alt=""></figure>
+<p>熟练了后期调色后，会发现可以放弃对滤镜的依赖了，自己都可以创建自己独特的滤镜效果来使用。不过具体的照片还要具体分析，这一个调整并不适用于每一张照片中。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电脑修图之如何让照片更通透]]></title>
+        <id>https://qxsma.github.io//post/dian-nao-xiu-tu-zhi-ru-he-rang-zhao-pian-geng-tong-tou</id>
+        <link href="https://qxsma.github.io//post/dian-nao-xiu-tu-zhi-ru-he-rang-zhao-pian-geng-tong-tou">
+        </link>
+        <updated>2019-11-25T14:36:24.000Z</updated>
+        <content type="html"><![CDATA[<p>原文发表于我的悟空问答<a href="https://www.wukong.com/answer/6532061104414130435/">《后期如何做可以让照片通透？》</a></p>
+<h1 id="前言">前言</h1>
+<p>通透，字面意思就是“通明、透亮”。</p>
+<p>用在摄影中，不通透的照片会让我们感觉灰蒙蒙的，感觉发闷。</p>
+<p>我们首先要了解造成照片不通透的原因：</p>
+<p><strong>环境关系：雾霾、灰尘、光线暗等原因。</strong></p>
+<p><strong>拍摄原因：曝光不准确、色温准确等原因。</strong></p>
+<p>然后再来看看不通透的照片是什么样的，我们来具体分析后期需要哪些处理来让照片变的通透。</p>
+<h1 id="什么是不通透的照片">什么是不通透的照片</h1>
+<figure data-type="image" tabindex="1"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/Snipaste_2018-03-12_21-48-32.png" alt=""></figure>
+<p>这就是一张典型的不通透的照片。</p>
+<p>可以看到这张照片就是灰蒙蒙的，并且亮度、饱和度、清晰度、对比度都不够，阴影和高光地方都没有细节。</p>
+<p>造成这张照片不通透的很大一个原因就是环境因素，因为空气中的能见度不高。</p>
+<p>既然我们明白了不通透的病症所在，那么我们在后期中所要做的就是对症下药：</p>
+<p><strong>增加明暗部分细节、增加曝光、增加饱和度、增加清晰度、增加对比度。</strong></p>
+<h1 id="后期调整">后期调整</h1>
+<p>其实在Camera Raw和Lightroom中有一个功能对于改善环境的能见度不高这个因素，有一个功能可以一键修复不通透的照片。</p>
+<p>就是**“去除薄雾”，也叫“去朦胧”功能**。</p>
+<h2 id="1-去除薄雾">1. 去除薄雾</h2>
+<p>可以在效果选项中找到这个功能，那么对这张照片我直接进行一个“去除薄雾”的调整。</p>
+<figure data-type="image" tabindex="2"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/Snipaste_2018-03-12_21-56-44.png" alt=""></figure>
+<p>看看效果如何：</p>
+<figure data-type="image" tabindex="3"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/Snipaste_2018-03-12_21-57-05.png" alt=""></figure>
+<p>可以看到“去除薄雾”功能对于灰蒙蒙的照片画质改善非常明显，饱和度、对比度、清晰度都有极大的提升。只是在调整之后，画面的亮度会稍微降低。</p>
+<h2 id="2-基本调整">2. 基本调整</h2>
+<p>之后我们可以继续在“基本调整”中对画面进行完善。</p>
+<figure data-type="image" tabindex="4"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/Snipaste_2018-03-12_22-01-31.png" alt=""></figure>
+<p>在基本调整中，对画面进行增加曝光、对比度、清晰度、自然饱和度的处理。</p>
+<p>并且在高光、阴影中对明暗部分的细节进行提升，降低白色色阶是因为提升曝光后一些白色的房子微微过曝了，来找回细节。</p>
+<h2 id="3-锐化与降噪">3. 锐化与降噪</h2>
+<p>另外在“细节”中对画面进行一点降噪处理，因为提升了明暗部分的细节，会产生一些噪点。并且对画面的利用锐化的蒙板功能对边缘进行锐化处理：</p>
+<figure data-type="image" tabindex="5"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/Snipaste_2018-03-12_22-03-38.png" alt=""></figure>
+<p>这样一来原本发闷的照片就修复变得更加通透了：</p>
+<figure data-type="image" tabindex="6"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/Snipaste_2018-03-12_22-05-29.png" alt=""></figure>
+<h1 id="小结">小结</h1>
+<p>最后我们再来看看这次处理的前后对比图：</p>
+<figure data-type="image" tabindex="7"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/Snipaste_2018-03-12_22-08-16.png" alt=""></figure>
+<p>可以看到效果还是很明显的。</p>
+<p>所以当我们在后期处理不通透的照片的时候，记住几个功能：</p>
+<ol>
+<li>去除薄雾（去朦胧）；</li>
+<li>加曝光、加对比度、加清晰度、加饱和度（自然饱和度）；</li>
+<li>提升阴影、压低高光找回明暗部分细节；</li>
+<li>降噪来修复提升细节造成的画面噪点。</li>
+</ol>
+<p>以上是我在处理不通透照片时候的一点经验，对与不通透的照片还要具体分析。</p>
+<p>当然我们还可以在Photoshop中利用互补色原来来改善不通透的画面，不过这个就要涉及到色彩原理了。</p>
+]]></content>
+    </entry>
 </feed>
