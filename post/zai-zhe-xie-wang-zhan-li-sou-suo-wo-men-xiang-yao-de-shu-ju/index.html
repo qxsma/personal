@@ -35,10 +35,34 @@
           </p>
           <div class="toc-container hidden lg:block">
             <ul class="markdownIt-TOC">
-<li><a href="#%E5%89%8D%E8%A8%80">前言</a></li>
-<li><a href="#%E6%80%9D%E8%B7%AF">思路</a></li>
-<li><a href="#%E4%BB%A3%E7%A0%81">代码</a></li>
-<li><a href="#%E5%B0%8F%E7%BB%93">小结</a></li>
+<li><a href="#%E4%BA%92%E8%81%94%E7%BD%91%E4%BF%A1%E6%81%AF">互联网信息</a>
+<ul>
+<li><a href="#%E7%99%BE%E5%BA%A6%E7%BB%9F%E8%AE%A1%E6%B5%81%E9%87%8F%E7%A0%94%E7%A9%B6%E9%99%A2">百度统计流量研究院</a>
+<ul>
+<li><a href="#%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9">网站内容</a></li>
+</ul>
+</li>
+<li><a href="#google-trends">Google Trends</a>
+<ul>
+<li><a href="#%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9-2">网站内容</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#%E6%B0%91%E7%94%9F%E4%BF%A1%E6%81%AF">民生信息</a>
+<ul>
+<li><a href="#%E5%9B%BD%E5%AE%B6%E6%95%B0%E6%8D%AE">国家数据</a>
+<ul>
+<li><a href="#%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9-3">网站内容</a></li>
+</ul>
+</li>
+<li><a href="#%E8%85%BE%E8%AE%AF%E4%BD%8D%E7%BD%AE%E5%A4%A7%E6%95%B0%E6%8D%AE">腾讯位置大数据</a>
+<ul>
+<li><a href="#%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9-4">网站内容</a></li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 
           </div>
@@ -79,140 +103,111 @@
 <div class="mask" onclick="closeMenu()">
 </div>
       <div class="content-wrapper py-32 lg:p-8 lg:w-3/4 post-detail animated fadeIn">
-        <h1 class="text-3xl font-bold lg:mt-16">近2000份电子问卷，我是这样统计数据的</h1>
+        <h1 class="text-3xl font-bold lg:mt-16">在这些网站里，搜索我们想要的数据</h1>
         <div class="text-sm text-gray-700 lg:my-8">
-          2019-11-25 / 5 min read
+          2019-11-27 / 2 min read
         </div>
         
         <div class="post-content yue">
-          <h1 id="前言">前言</h1>
-<p>学校每年要做“学习成长满意度”的调查，往年会采取在线问卷的形式来统计，可是今年却发给我们一个问卷的电子档，让学生填电子档问卷然后汇总，最后收集了近2000份文档，每个问卷里面都有44个题目。面对这样的调查方式我想要统计数据来进行分析，难道除了一份份问卷人工统计外就没有其他办法了么？于是我想到了今年暑期时学习的Python。</p>
-<h1 id="思路">思路</h1>
-<p>关于什么是Python就不过多介绍了，网上百度一大堆。</p>
-<p>这时候我会想我需要Python为我做什么呢？</p>
+          <h1 id="互联网信息">互联网信息</h1>
+<h2 id="百度统计流量研究院">百度统计流量研究院</h2>
+<figure data-type="image" tabindex="1"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127102714.png" alt=""></figure>
+<p><a href="https://tongji.baidu.com/research/app">访问地址</a></p>
+<h3 id="网站内容">网站内容</h3>
 <ol>
-<li>问卷中每个题项都是固定的内容，那么我可以使用<code>正则表达式</code>来匹配每个题项后面的学生的选项</li>
-<li>读取后我需要将选项写入到Excel中，并保存</li>
-</ol>
-<p>其实思路很简单，主要在于如何在Python中实现，所以我需要以下的模块来实现：</p>
-<ol>
-<li><code>docx</code>模块：用来读取Word内容，但是<code>docx</code>模块只能操作docx格式的Word文档，所以需要识别文件格式，来将doc格式文档转换为docx格式：
+<li>网页流量平台
 <ul>
-<li><code>os</code>模块：用以读取文件夹下的文件列表，并且识别文件的后缀名</li>
-<li><code>win32com</code>模块：用以将doc格式文档转换为docx格式</li>
+<li>浏览器市场份额</li>
+<li>操作系统</li>
+<li>分辨率</li>
+<li>流量入口</li>
+<li>上网时间分布</li>
+<li>用户画像</li>
 </ul>
 </li>
-<li><code>re</code>模块：正则表达式模块，用来匹配问卷中的每一个题项</li>
-<li><code>xlwt</code>模块：用来操作Excel文档，将读取后的选项写入Excel中并保存到指定路径</li>
+<li>APP流量平台
+<ul>
+<li>移动设备市场份额</li>
+<li>联网方式</li>
+<li>分辨率</li>
+<li>使用行为</li>
+<li>上网时间分布</li>
+<li>用户画像</li>
+</ul>
+</li>
 </ol>
-<h1 id="代码">代码</h1>
-<pre><code class="language-Python">import os
-import docx
-from docx import Document
-import re
-import xlwt
-from win32com import client as wc
-# 问卷题目的正则表达式
-pat=[
-    &quot;您的性别是：（(.*?)）&quot;,
-   ...
-]
-# 获取路径文件夹下的文件列表
-def GetFilesName(FolderPath):
-    filelist=os.listdir(FolderPath)
-    return filelist
-# 识别Word为doc或是docx
-def DocOrDocx(FileName):
-    suffix=os.path.splitext(FileName)
-    return suffix[1]
-# 将doc格式转换为docx格式
-def DocToDocx(FilePath,FileName):
-    # FileName包括后缀名
-    savepath=FilePath+&quot;docx\\&quot;
-    if os.path.isdir(FilePath+&quot;docx&quot;)==0:
-        os.mkdir(FilePath+&quot;docx&quot;)
-    name=FileName.replace(&quot;.doc&quot;,&quot;&quot;)
-    word=wc.Dispatch('Word.Application')
-    doc=word.Documents.Open(FilePath+name+&quot;.doc&quot;) # 目标路径下的文件
-    doc.SaveAs(savepath+name+&quot;.docx&quot;, 12, False, &quot;&quot;, True, &quot;&quot;, False, False, False, False) # 转化后路径下的文件
-    doc.Close()
-    word.Quit()
-    return savepath
-# 读取Word中的内容并转为字符串
-def GetWordContent(FilePath,FileName):
-    content=[]
-    doc=Document(FilePath+FileName)
-    for paragraph in doc.paragraphs:
-        content.append(paragraph.text)
-    content_str=&quot;&quot;.join(content)
-    return content_str
-# 使用正则表达式读取问卷选项并输出为列表
-def GetOption(DocxName,Content):
-    options=[DocxName]
-    for i in range(0,len(pat)):
-        rst=re.compile(pat[i]).findall(Content)
-        options.append(rst)
-    return options
-path=&quot;文件路径&quot;
-filelist=GetFilesName(path)
-xls=xlwt.Workbook(encoding=&quot;utf-8&quot;)
-sheet=xls.add_sheet(&quot;sheet1&quot;)
-for f_index in range(0,len(filelist)):
-    suffix=DocOrDocx(filelist[f_index])
-    if(suffix==&quot;.doc&quot;):
-        docpath=path+&quot;\\&quot;
-        docxpath=DocToDocx(docpath,filelist[f_index])
-        docxname=filelist[f_index].replace(&quot;.doc&quot;,&quot;.docx&quot;)
-        print(docxname)
-        content=GetWordContent(docxpath,docxname)
-        opt=GetOption(filelist[f_index].replace(&quot;.doc&quot;,&quot;&quot;),content)
-    else:
-        docxpath=path+&quot;\\&quot;
-        content=GetWordContent(docxpath,filelist[f_index])
-        opt=GetOption(filelist[f_index].replace(&quot;.docx&quot;,&quot;&quot;),content)
-    for j in range(0,len(opt)):
-        xls_path_name=path+&quot;\\&quot;+&quot;问卷数据.xls&quot;
-        sheet.write(f_index,j,opt[j])
-xls.save(xls_path_name)
-print(&quot;运行完成！&quot;)
-</code></pre>
-<h1 id="小结">小结</h1>
-<ol>
-<li>面对一项工作的时候，我不会马上就着手去做，而是先思考，思考这项工作应该怎么去做？有没有什么更好的方法来完成？有没有什么新的思路可以帮助我完成？</li>
-<li>如果说人工来统计近2000份电子问卷的数据，那可能需要至少一个星期的时间才能完成，既浪费时间也浪费精力，而我的方法只用了一下午的时间写代码，半小时的时间运行程序就完成了这项工作</li>
-<li>可能这是很小的一件事情，但也可以看出时代是真的在进步，高科技信息化的手段已经能够代替太多太多人工的工作，人工智能的发展也逐渐会取代许多的工作，那么我们只有让自己跟随时代的大潮，才不会被社会淘汰</li>
-</ol>
+<h2 id="google-trends">Google Trends</h2>
+<figure data-type="image" tabindex="2"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127104024.png" alt=""></figure>
+<p><a href="https://trends.google.com/">访问地址</a></p>
+<h3 id="网站内容-2">网站内容</h3>
+<ul>
+<li>世界各地用户在google上的搜索热度及趋势
+<ul>
+<li>热度随时间变化的趋势</li>
+<li>按区域显示的搜索热度</li>
+<li>相关主题</li>
+<li>相关查询</li>
+</ul>
+</li>
+</ul>
+<h1 id="民生信息">民生信息</h1>
+<h2 id="国家数据">国家数据</h2>
+<figure data-type="image" tabindex="3"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127110551.png" alt=""></figure>
+<p><a href="http://data.stats.gov.cn/index.htm">访问地址</a></p>
+<h3 id="网站内容-3">网站内容</h3>
+<p><strong>国家统计局网站</strong>，涵盖各行各业经济指数、增长速度等，主要领域如下：</p>
+<ul>
+<li>价格指数</li>
+<li>工业</li>
+<li>能源</li>
+<li>固定资产投资</li>
+<li>服务业生产指数</li>
+<li>城镇调查失业率</li>
+<li>房地产</li>
+<li>国内贸易</li>
+<li>对外经济</li>
+<li>交通运输</li>
+<li>邮电通信</li>
+<li>采购经理指数</li>
+<li>财政</li>
+<li>金融</li>
+</ul>
+<p>以及全国、各省的月度、季度、年度数据，普查数据等等。</p>
+<h2 id="腾讯位置大数据">腾讯位置大数据</h2>
+<figure data-type="image" tabindex="4"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127113020.png" alt=""></figure>
+<p><a href="https://heat.qq.com/index.php">访问地址</a></p>
+<h3 id="网站内容-4">网站内容</h3>
+<ul>
+<li>指定区域一段时间内的位置流量趋势</li>
+<li>指定区域一段时间内的区域热力图</li>
+<li>指定时间某个城市的人口迁徙图</li>
+</ul>
+<hr>
+<blockquote>
+<p>持续更新...</p>
+</blockquote>
 
         </div>
 
         
-          <a class="animated fadeInUp p-2 items-center text-sm text-gray-700 border hover:bg-gray-300 leading-none rounded-full flex lg:inline-flex m-4 " href="https://qxsma.github.io//tag/GaHcmbQCn">
-            <span class="flex-auto">Python</span>
+          <a class="animated fadeInUp p-2 items-center text-sm text-gray-700 border hover:bg-gray-300 leading-none rounded-full flex lg:inline-flex m-4 " href="https://qxsma.github.io//tag/16HeYfPR9">
+            <span class="flex-auto">数据</span>
           </a>
         
-          <a class="animated fadeInUp p-2 items-center text-sm text-gray-700 border hover:bg-gray-300 leading-none rounded-full flex lg:inline-flex m-4 " href="https://qxsma.github.io//tag/uTiRjfCRU">
-            <span class="flex-auto">效率</span>
+          <a class="animated fadeInUp p-2 items-center text-sm text-gray-700 border hover:bg-gray-300 leading-none rounded-full flex lg:inline-flex m-4 " href="https://qxsma.github.io//tag/hT-Rh7EG9Q">
+            <span class="flex-auto">检索</span>
           </a>
         
 
 
         <div class="flex justify-between py-8">
           
-            <div class="prev-post">
-              <a href="https://qxsma.github.io//post/zai-zhe-xie-wang-zhan-li-sou-suo-wo-men-xiang-yao-de-shu-ju">
-                <h3 class="post-title">
-                  <i class="remixicon-arrow-left-line"></i>
-                  在这些网站里，搜索我们想要的数据
-                </h3>
-              </a>
-            </div>
-          
 
           
             <div class="next-post">
-              <a href="https://qxsma.github.io//post/21-tiao-gao-xiao-shi-jian-guan-li-yu-gao-xiao-gong-zuo-fa-ze">
+              <a href="https://qxsma.github.io//post/jin-2000-fen-dian-zi-wen-juan-wo-shi-zhe-yang-tong-ji-shu-ju-de">
                 <h3 class="post-title">
-                  21条高效时间管理与高效工作法则
+                  近2000份电子问卷，我是这样统计数据的
                   <i class="remixicon-arrow-right-line"></i>
                 </h3>
               </a>
