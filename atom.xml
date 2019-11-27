@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qxsma.github.io/</id>
     <title>MQXS</title>
-    <updated>2019-11-27T12:09:10.870Z</updated>
+    <updated>2019-11-27T14:09:37.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qxsma.github.io/"/>
     <link rel="self" href="https://qxsma.github.io//atom.xml"/>
@@ -11,16 +11,16 @@
     <icon>https://qxsma.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, MQXS</rights>
     <entry>
-        <title type="html"><![CDATA[检索信息和数据，你可能需要这些网站]]></title>
+        <title type="html"><![CDATA[检索数据和行业报告，你可能需要这些网站]]></title>
         <id>https://qxsma.github.io//post/zai-zhe-xie-wang-zhan-li-sou-suo-wo-men-xiang-yao-de-shu-ju</id>
         <link href="https://qxsma.github.io//post/zai-zhe-xie-wang-zhan-li-sou-suo-wo-men-xiang-yao-de-shu-ju">
         </link>
         <updated>2019-11-27T03:28:41.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="互联网信息">互联网信息</h1>
+        <content type="html"><![CDATA[<h1 id="互联网行为数据">互联网行为数据</h1>
 <h2 id="百度统计流量研究院">百度统计流量研究院</h2>
 <figure data-type="image" tabindex="1"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127102714.png" alt=""></figure>
 <p><a href="https://tongji.baidu.com/research/app">访问地址</a></p>
-<h3 id="网站内容">网站内容</h3>
+<p><strong>主要内容</strong>：</p>
 <ol>
 <li>网页流量平台
 <ul>
@@ -43,24 +43,10 @@
 </ul>
 </li>
 </ol>
-<h2 id="google-trends">Google Trends</h2>
-<figure data-type="image" tabindex="2"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127104024.png" alt=""></figure>
-<p><a href="https://trends.google.com/">访问地址</a></p>
-<h3 id="网站内容-2">网站内容</h3>
-<ul>
-<li>世界各地用户在google上的搜索热度及趋势
-<ul>
-<li>热度随时间变化的趋势</li>
-<li>按区域显示的搜索热度</li>
-<li>相关主题</li>
-<li>相关查询</li>
-</ul>
-</li>
-</ul>
 <h2 id="腾讯移动分析">腾讯移动分析</h2>
-<figure data-type="image" tabindex="3"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127160057.png" alt=""></figure>
+<figure data-type="image" tabindex="2"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127160057.png" alt=""></figure>
 <p><a href="https://mta.qq.com/">访问地址</a></p>
-<h3 id="网站内容-3">网站内容</h3>
+<p><strong>主要内容</strong>：</p>
 <ol>
 <li>移动设备分析
 <ul>
@@ -86,10 +72,35 @@
 </ul>
 </li>
 </ol>
+<h2 id="新榜">新榜</h2>
+<figure data-type="image" tabindex="3"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127220210.png" alt=""></figure>
+<p><a href="https://www.newrank.cn/">访问地址</a></p>
+<p><strong>主要内容</strong>：提供私域流量运营增长、全域内容整合营销、版权内容智能分发三块产品服务，充分发挥行业枢纽作用，连接线上线下资源，服务于内容产业，以内容服务产业。微信公众号、头条号、抖音号、微博号等榜单。</p>
+<h2 id="statcounter">Statcounter</h2>
+<figure data-type="image" tabindex="4"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127163916.png" alt=""></figure>
+<p><a href="https://gs.statcounter.com/">访问地址</a></p>
+<p><strong>主要内容</strong>：全球互联网行为数据</p>
+<ul>
+<li>浏览器市场</li>
+<li>搜索引擎市场</li>
+<li>操作系统市场</li>
+<li>屏幕分辨率市场</li>
+<li>社交应用市场</li>
+<li>移动设备市场</li>
+</ul>
+<h1 id="互联网数据报告">互联网数据报告</h1>
+<h2 id="七麦数据">七麦数据</h2>
+<figure data-type="image" tabindex="5"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127211415.png" alt=""></figure>
+<p><a href="https://www.qimai.cn/">访问地址</a></p>
+<p><strong>主要内容</strong>：国内专业的移动应用数据分析平台，覆盖App Store &amp; Google Play双平台，提供iOS&amp;Android应用市场多维度数据等，以及相关数据报告。</p>
+<h2 id="互联网的一些事">互联网的一些事</h2>
+<figure data-type="image" tabindex="6"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127202937.png" alt=""></figure>
+<p><a href="https://www.yixieshi.com/">访问地址</a></p>
+<p><strong>主要内容</strong>：各大网站互联网报告整合</p>
 <h2 id="移动观像台">移动观像台</h2>
-<figure data-type="image" tabindex="4"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127162453.png" alt=""></figure>
+<figure data-type="image" tabindex="7"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127162453.png" alt=""></figure>
 <p><a href="http://mi.talkingdata.com/index.html">访问地址</a></p>
-<h3 id="网站内容-4">网站内容</h3>
+<p><strong>主要内容</strong>：</p>
 <ol>
 <li>移动应用排行榜</li>
 <li>AppStore实时排行</li>
@@ -102,39 +113,75 @@
 </ul>
 </li>
 </ol>
-<h2 id="statcounter">Statcounter</h2>
-<figure data-type="image" tabindex="5"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127163916.png" alt=""></figure>
-<p><a href="https://gs.statcounter.com/">访问地址</a></p>
-<h3 id="网页内容">网页内容</h3>
-<ul>
-<li>全球互联网行为数据
-<ul>
-<li>浏览器市场</li>
-<li>搜索引擎市场</li>
-<li>操作系统市场</li>
-<li>屏幕分辨率市场</li>
-<li>社交应用市场</li>
-<li>移动设备市场</li>
-</ul>
-</li>
-</ul>
 <h1 id="社会事件">社会事件</h1>
 <h2 id="知微事见">知微事见</h2>
-<figure data-type="image" tabindex="6"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127161107.png" alt=""></figure>
+<figure data-type="image" tabindex="8"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127161107.png" alt=""></figure>
 <p><a href="http://ef.zhiweidata.com/index.html#!/index">访问地址</a></p>
-<h3 id="网站内容-5">网站内容</h3>
+<p><strong>主要内容</strong>：</p>
 <ol>
 <li>近期舆论场热度走势（小时、天）</li>
 <li>舆论场排名</li>
 <li>近30天热点事件</li>
 <li>具体事件的概况、传播趋势、重要渠道、舆论聚合、人群画像</li>
 </ol>
-<h1 id="民生信息">民生信息</h1>
+<h2 id="头条指数今日头条">头条指数（今日头条）</h2>
+<figure data-type="image" tabindex="9"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127213316.png" alt=""></figure>
+<p><a href="https://index.toutiao.com/">访问地址</a></p>
+<p><strong>主要内容</strong>：热点事件及其指数、分析、热门文章，各领域数据报告</p>
+<h1 id="搜索引擎关键词指数">搜索引擎关键词指数</h1>
+<h2 id="百度搜索风云榜">百度搜索风云榜</h2>
+<figure data-type="image" tabindex="10"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127212617.png" alt=""></figure>
+<p><a href="http://top.baidu.com/population?fr=topregion">访问地址</a></p>
+<p><strong>主要内容</strong>：百度搜索榜单，热点新闻、人物等，可按地域、人群分类查看各类人群的关注度</p>
+<h2 id="百度指数">百度指数</h2>
+<figure data-type="image" tabindex="11"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127215626.png" alt=""></figure>
+<p><a href="http://index.baidu.com/v2/index.html#/">访问地址</a></p>
+<p><strong>主要内容</strong>：指定关键词查看搜索趋势研究、需求图谱、人群画像</p>
+<h2 id="google-trends">Google Trends</h2>
+<figure data-type="image" tabindex="12"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127104024.png" alt=""></figure>
+<p><a href="https://trends.google.com/">访问地址</a></p>
+<p><strong>主要内容</strong>：世界各地用户在google上的搜索热度及趋势</p>
+<ul>
+<li>热度随时间变化的趋势</li>
+<li>按区域显示的搜索热度</li>
+<li>相关主题</li>
+<li>相关查询</li>
+</ul>
+<h1 id="车辆及交通情况">车辆及交通情况</h1>
+<h2 id="易车指数">易车指数</h2>
+<figure data-type="image" tabindex="13"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127211802.png" alt=""></figure>
+<p><a href="http://datamodel.bitauto.com/login">访问地址</a></p>
+<p><strong>主要内容</strong>：汽车品牌排行榜、市场大盘（汽车行业销售趋势、级别细分市场、国别分布等）、专题报告</p>
+<h2 id="腾讯位置大数据">腾讯位置大数据</h2>
+<figure data-type="image" tabindex="14"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127113020.png" alt=""></figure>
+<p><a href="https://heat.qq.com/index.php">访问地址</a></p>
+<p><strong>主要内容</strong>：</p>
+<ul>
+<li>指定区域一段时间内的位置流量趋势</li>
+<li>指定区域一段时间内的区域热力图</li>
+<li>指定时间某个城市的人口迁徙图</li>
+</ul>
+<h2 id="高德地图城市交通实时数据">高德地图城市交通实时数据</h2>
+<figure data-type="image" tabindex="15"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127202726.png" alt=""></figure>
+<p><a href="https://report.amap.com/diagnosis/index.do">访问地址</a></p>
+<p><strong>主要内容</strong>：中国主要城市交通情况</p>
+<ul>
+<li>拥堵情况</li>
+<li>交通预测</li>
+<li>交通报告</li>
+<li>跨城出行</li>
+<li>交通安全</li>
+</ul>
+<h1 id="电影票房">电影票房</h1>
+<h2 id="cbo中国票房">CBO中国票房</h2>
+<figure data-type="image" tabindex="16"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127213727.png" alt=""></figure>
+<p><a href="http://www.cbooo.cn/">访问地址</a></p>
+<p><strong>主要内容</strong>：电影实时票房、上座率，各城市排片率；电视剧播映指数等</p>
+<h1 id="综合查询">综合查询</h1>
 <h2 id="国家数据">国家数据</h2>
-<figure data-type="image" tabindex="7"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127110551.png" alt=""></figure>
+<figure data-type="image" tabindex="17"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127110551.png" alt=""></figure>
 <p><a href="http://data.stats.gov.cn/index.htm">访问地址</a></p>
-<h3 id="网站内容-6">网站内容</h3>
-<p><strong>国家统计局网站</strong>，涵盖各行各业经济指数、增长速度等，主要领域如下：</p>
+<p><strong>主要内容</strong>：<strong>国家统计局网站</strong>，涵盖各行各业经济指数、增长速度等，主要领域如下：</p>
 <ul>
 <li>价格指数</li>
 <li>工业</li>
@@ -152,22 +199,26 @@
 <li>金融</li>
 </ul>
 <p>以及全国、各省的月度、季度、年度数据，普查数据等等。</p>
-<h2 id="腾讯位置大数据">腾讯位置大数据</h2>
-<figure data-type="image" tabindex="8"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127113020.png" alt=""></figure>
-<p><a href="https://heat.qq.com/index.php">访问地址</a></p>
-<h3 id="网站内容-7">网站内容</h3>
-<ul>
-<li>指定区域一段时间内的位置流量趋势</li>
-<li>指定区域一段时间内的区域热力图</li>
-<li>指定时间某个城市的人口迁徙图</li>
-</ul>
 <h2 id="艾瑞咨询">艾瑞咨询</h2>
-<figure data-type="image" tabindex="9"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127164451.png" alt=""></figure>
+<figure data-type="image" tabindex="18"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127164451.png" alt=""></figure>
 <p><a href="https://www.iresearch.com.cn/">访问地址</a></p>
-<h3 id="网站内容-8">网站内容</h3>
+<p><strong>主要内容</strong>：各类行业研究报告、移动互联网数据</p>
+<h2 id="199it互联网数据资讯网">199IT互联网数据资讯网</h2>
+<figure data-type="image" tabindex="19"><img src="https://mapic.oss-cn-chengdu.aliyuncs.com/20191127210619.png" alt=""></figure>
+<p><a href="http://www.199it.com/">网站地址</a></p>
+<p><strong>主要内容</strong>：各行业数据报告，主要有以下领域</p>
 <ul>
-<li>各类行业研究报告</li>
-<li>移动互联网数据</li>
+<li>新兴产业</li>
+<li>金融科技</li>
+<li>共享经济</li>
+<li>移动</li>
+<li>电商</li>
+<li>社交</li>
+<li>营销</li>
+<li>投资</li>
+<li>服务</li>
+<li>行业</li>
+<li>用研</li>
 </ul>
 <hr>
 <blockquote>
