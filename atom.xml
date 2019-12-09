@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qxsma.github.io/</id>
     <title>MQXS</title>
-    <updated>2019-11-27T14:09:37.846Z</updated>
+    <updated>2019-12-09T03:12:31.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qxsma.github.io/"/>
     <link rel="self" href="https://qxsma.github.io//atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>和你们共同成长</subtitle>
     <logo>https://qxsma.github.io//images/avatar.png</logo>
     <icon>https://qxsma.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, MQXS</rights>
